@@ -1,4 +1,4 @@
-name: Insider API Test Cases
+name: Insider API Test Case
 
 on:
   push:
